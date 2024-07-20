@@ -30,7 +30,7 @@ git log --graph
 ```
 * *Переход от одного коммита|ветки к другому:*
 ```sh
-git checkout <commit line number> or <branch name>
+git checkout <commit line number> or <branch_name>
 ```
 * *Вернуться к актуальному состоянию git и продолжить работу:*
 ```sh
