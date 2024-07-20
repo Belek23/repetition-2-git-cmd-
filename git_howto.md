@@ -24,9 +24,9 @@ git log
 ```sh
 git log --oneline
 ```
-* *Переход от одного коммита к другому:*
+* *Переход от одного коммита|ветки к другому:*
 ```sh
-git checkout
+git checkout <commit line number> or <branch name>
 ```
 * *Вернуться к актуальному состоянию git и продолжить работу:*
 ```sh
