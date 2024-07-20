@@ -48,5 +48,9 @@ git branch
  ```
  git branch <branch_name>
  ```
+* *Удаление ветки*
+```
+git branch -d <file_name>
+```
 
 
