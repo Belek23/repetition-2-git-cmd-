@@ -44,6 +44,9 @@ git diff
 ```
 git branch
 ```
-
+* *Создание новой ветки*
+ ```
+ git branch <branch_name>
+ ```
 
 
